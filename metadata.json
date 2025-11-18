@@ -1,0 +1,5 @@
+{
+  "name": "Fridge Fusion Chef",
+  "description": "An intelligent cooking assistant that helps users decide what to cook using whatever ingredients they have. It turns random, mismatched ingredients into delicious, gourmet-style recipes by identifying ingredients from photos or text and generating creative recipes.",
+  "requestFramePermissions": []
+}
